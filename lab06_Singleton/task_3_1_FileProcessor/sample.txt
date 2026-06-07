@@ -1,0 +1,5 @@
+Design Patterns are reusable solutions to common problems.
+Singleton ensures only one instance exists in the program.
+Factory Method creates objects without specifying the exact class.
+Builder constructs complex objects step by step.
+Prototype copies existing objects without dependency on their classes.
